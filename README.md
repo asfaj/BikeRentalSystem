@@ -70,8 +70,5 @@ Improve input handling and user interface.
 ▶️ Run the App
 To run the app:
 
-bash
-Copy
-Edit
 python bike_rental.py
 Make sure you're using Python 3.
